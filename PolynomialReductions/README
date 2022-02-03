@@ -1,0 +1,23 @@
+Ilie David 324CA - 2022
+
+Task1:
+Pentru rezolvarea problemei, am generat 3 tipuri de clauze care vor fi date ca
+input oracolului. Prima clauza verifica daca pentru fiecare pozitie din grup
+este asignata o persoana. A 2-a clauza verifica daca o persoana este asignata
+de mai multe ori in grup, iar a 3-a clauza verifica daca doua persoane care nu
+au legatura se afla in acelasi grup.
+
+Task2:
+Pentru rezolvarea problemei, am generat 4 tipuri de clauze care vor fi date ca
+input oracolului. Prima verifica daca pentru fiecare pozitie din grup este
+asignata o persona. A 2-a verifica daca este asignata o singura persoana pentru
+fiecare index din grup. A 3-a verifica daca fiecare persoana este asignata pe
+o singura pozitie in grup, iar a 4-a verifica daca fiecare relatie are o
+persoana care e asignata pe o pozitie din gurp.
+
+Task3:
+Pentru rezolvarea acestei probleme, am generat 3 tipuri de clauze care vor fi
+date ca input oracolului. Prima cauta variabilele care au legatura intre ele si
+verifica daca sunt asignate in acelasi registru. A 2-a verifica daca o
+variabila este pusa in mai multi registri, iar a 3-a verifica daca fiecare
+variabila este pusa intr-un registru.
